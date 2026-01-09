@@ -2,7 +2,7 @@
 
 🚀 A modern web application to solve real-world problems.
 
-![main page](./.github/images/main page.png)
+![Main Page](./.github/images/main-page.png)
 
 ---
 
@@ -26,10 +26,11 @@ and analytics efficiently with a clean UI and fast performance.
 ## 📸 Screenshots
 
 ### Desktop View
-![middle page](./.github/images/middle page.png)
+![middle page](./.github/images/middle-page.png)
 
 ### Mobile View
-![login page](./.github/images/login page.png)
+![Login Page](./.github/images/login-page.png)
+
 
 ---
 
